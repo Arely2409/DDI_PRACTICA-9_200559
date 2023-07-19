@@ -7,5 +7,6 @@
   <h1 align="center">UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ</h1>
   <h2 align="center">ARELY AGUILAR FARIAS M-200559</h2>
   <h3 align="center">Implementacion de cambio de pantallas en Smart TV</h3>
+  <h5 align="center">Se creó una aplicación para Smart TV en la cual se generan cambios de pantallas y cada pantalla contiene diferente texto e imagen</h5>
   <h3 align="center">Fecha de entrega: 14/07/2023</h3>
 </P>
